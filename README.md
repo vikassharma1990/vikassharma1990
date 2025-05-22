@@ -131,3 +131,48 @@
   </footer>
 </body>
 </html>
+  <main>
+    <section class="gallery">
+      <img src="assets/images/collage.jpg" alt="Photo collage of DK Vaage Point">
+      <p>Moments and memories captured at DK Vaage Point.</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 DK Vaage Point. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
+<!-- contact.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact - DK Vaage Point</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+    <h1>Contact Us</h1>
+  </header>
+  <main>
+    <section>
+      <p>📞 Phone: +91-XXXXXXXXXX</p>
+      <p>📍 Location: Dhamtari, Chhattisgarh</p>
+      <p>📧 Email: contact@dkvaagepoint.com</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 DK Vaage Point. All rights reserved.</p>
+  </footer>
+</body>
+</html>
